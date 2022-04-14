@@ -2,7 +2,7 @@
     $host = 'localhost';
     $user = 'root';
     $password = '';
-    $database = 'i2it';
+    $database = 'projects';
 
     $con = mysqli_connect($host, $user, $password, $database);
 
