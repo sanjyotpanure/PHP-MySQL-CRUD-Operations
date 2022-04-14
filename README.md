@@ -1,5 +1,9 @@
 # PHP-MySQL-CRUD-Operations
 
+<div align="center">
+    <img src="https://github.com/sanjyotpanure/PHP-MySQL-CRUD-Operations/blob/master/dashboard.png" alt="Screenshot" />
+</div>
+
 **Steps to start project:**
 
 1. Download the project.
