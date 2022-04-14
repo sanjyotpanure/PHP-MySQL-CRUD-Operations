@@ -11,21 +11,16 @@
 -- --------------------------------------------------------
 
 --
--- Table structure for table 'jobregistration'
+-- Table structure for table 'userinfo'
 --
 
-CREATE TABLE `jobregistration` (
+CREATE TABLE `userinfo` (
   `id` int(50) NOT NULL AUTO_INCREMENT,
-  `name` varchar(50) NOT NULL,
-  `phone` varchar(50) NOT NULL,
+  `fname` varchar(50) NOT NULL,
+  `lname` varchar(50) NOT NULL,
   `email` varchar(50) NOT NULL,
-  `degree` varchar(50) NOT NULL,
-  `refer` varchar(50) NOT NULL,
-  `planguage` varchar(50) NOT NULL,
   PRIMARY KEY (`id`)
   
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
-
 -- --------------------------------------------------------
-
