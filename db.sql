@@ -14,7 +14,7 @@
 -- Table structure for table 'userinfo'
 --
 
-CREATE TABLE `userinfo` (
+CREATE TABLE `info` (
   `id` int(50) NOT NULL AUTO_INCREMENT,
   `fname` varchar(50) NOT NULL,
   `lname` varchar(50) NOT NULL,
